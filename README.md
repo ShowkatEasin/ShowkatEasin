@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo13644
-Fork on GitHub3600
+
 <h1 align="center">Hi 👋, I'm Showkat Easin</h1>
 <h3 align="center">A passionate Frontend & Backend Developer from Bangladesh</h3>
 
