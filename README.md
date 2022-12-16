@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP PHP & Laravel**
 
-- 📫 How to reach me **showkatwasin@gmail.com**
+- 📫 How to reach me **showkateasin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
