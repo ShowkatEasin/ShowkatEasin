@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://showkateasin.github.io/Portfolio/](https://showkateasin.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP PHP with Laravel & Wordpress **
+- 💬 Ask me about HTML, CSS, BOOTSTRAP PHP with Laravel & Wordpress 
 
 - 📫 How to reach me **showkateasin@gmail.com**
 
